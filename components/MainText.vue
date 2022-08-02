@@ -11,7 +11,7 @@
     </div>
 
     <button
-      class="mt-20 md:mt-40 w-24 py-2 text-primary text-md md:text-2xl border-2 border-primary hover:bg-primary hover:text-white transition duration-300"
+      class="mt-20 md:mt-40 w-24 py-2 text-primary text-md md:text-2xl border-2 border-primary hover:bg-primary font-semibold hover:text-white transition duration-300"
       style="border-radius: 50px;"
     >
       buy

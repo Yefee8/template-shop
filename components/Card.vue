@@ -22,7 +22,7 @@
 
     <div class="flex justify-center">
       <button
-        class="mt-4 md:mt-8 w-24 py-2 text-sprimary text-md md:text-2xl border-2 border-sprimary hover:bg-sprimary hover:text-white transition duration-300"
+        class="font-semibold mt-4 md:mt-8 w-24 py-2 text-sprimary text-md md:text-2xl border-2 border-sprimary hover:bg-sprimary hover:text-white transition duration-300"
         style="border-radius: 50px;"
       >
         buy

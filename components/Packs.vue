@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col items-center">
-    <h1 class="text-lg md:text-2xl text-primary font-medium">
+    <h1 class="text-lg md:text-2xl text-primary font-semibold">
       Packs!
     </h1>
 

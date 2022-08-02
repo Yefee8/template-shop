@@ -38,6 +38,7 @@ export default Vue.extend({
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@400;500&family=Nothing+You+Could+Do&display=swap');
 
 body {
+  background:#d81b60;
   font-family: 'M PLUS 1';
 }
 </style>
